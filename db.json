@@ -1,0 +1,144 @@
+{
+  "furnitureShop": [
+    {
+      "id": 1,
+      "title": "Modern Sofa",
+      "price": 499.99,
+      "description": "A stylish modern sofa that fits perfectly in any living room.",
+      "subDescription": "Comfortable & Chic",
+      "url": "https://images.unsplash.com/photo-1653971858526-97f2ba1914c4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 10,
+      "new": true
+    },
+    {
+      "id": 2,
+      "title": "Wooden Dining Table",
+      "price": 299.99,
+      "description": "A sturdy wooden dining table that seats six comfortably.",
+      "subDescription": "Elegant Design",
+      "url": "https://images.unsplash.com/photo-1505409628601-edc9af17fda6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 15,
+      "new": false
+    },
+    {
+      "id": 3,
+      "title": "Ergonomic Office Chair",
+      "price": 149.99,
+      "description": "An ergonomic office chair designed for long hours of comfort.",
+      "subDescription": "Supportive & Stylish",
+      "url": "https://images.unsplash.com/photo-1532103054090-3491f1a05d0d?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 5,
+      "new": true
+    },
+    {
+      "id": 4,
+      "title": "Queen Bed Frame",
+      "price": 399.99,
+      "description": "A beautiful queen bed frame made from high-quality materials.",
+      "subDescription": "Sturdy & Elegant",
+      "url": "https://images.unsplash.com/photo-1521783988139-89397d761dce?q=80&w=1325&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 20,
+      "new": false
+    },
+    {
+      "id": 5,
+      "title": "Accent Chair",
+      "price": 199.99,
+      "description": "A stylish accent chair that adds a pop of color to any room.",
+      "subDescription": "Vibrant Addition",
+      "url": "https://images.unsplash.com/photo-1721932547078-38a815bb6b17?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 0,
+      "new": true
+    },
+    {
+      "id": 6,
+      "title": "Coffee Table",
+      "price": 149.99,
+      "description": "A sleek coffee table that complements any living space.",
+      "subDescription": "Modern & Functional",
+      "url": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 10,
+      "new": true
+    },
+    {
+      "id": 7,
+      "title": "Bookshelf",
+      "price": 199.99,
+      "description": "A spacious bookshelf perfect for organizing your books and decor.",
+      "subDescription": "Stylish Storage",
+      "url": "https://plus.unsplash.com/premium_photo-1698084059448-5bdc536e083a?q=80&w=1315&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 15,
+      "new": false
+    },
+    {
+      "id": 8,
+      "title": "Bedside Table",
+      "price": 79.99,
+      "description": "A compact bedside table with a drawer for storage.",
+      "subDescription": "Convenient & Compact",
+      "url": "https://images.unsplash.com/photo-1499933374294-4584851497cc?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 5,
+      "new": true
+    },
+    {
+      "id": 9,
+      "title": "Dining Chair",
+      "price": 89.99,
+      "description": "A comfortable dining chair that fits any dining room style.",
+      "subDescription": "Classic & Comfortable",
+      "url": "https://plus.unsplash.com/premium_photo-1676320514042-6e1e3c9144ef?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 0,
+      "new": true
+    },
+    {
+      "id": 10,
+      "title": "Recliner Chair",
+      "price": 349.99,
+      "description": "A plush recliner chair for ultimate relaxation.",
+      "subDescription": "Relaxing Comfort",
+      "url": "https://images.unsplash.com/photo-1556597249-cd6a997737df?q=80&w=1344&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 20,
+      "new": false
+    },
+    {
+      "id": 11,
+      "title": "Storage Ottoman",
+      "price": 129.99,
+      "description": "An ottoman with hidden storage space.",
+      "subDescription": "Versatile & Stylish",
+      "url": "https://plus.unsplash.com/premium_photo-1661879463320-27174a27d668?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 10,
+      "new": true
+    },
+    {
+      "id": 12,
+      "title": "TV Stand",
+      "price": 249.99,
+      "description": "A modern TV stand with ample storage.",
+      "subDescription": "Sleek & Functional",
+      "url": "https://plus.unsplash.com/premium_photo-1661779632194-6cf32a9b5325?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 15,
+      "new": false
+    },
+    {
+      "id": 13,
+      "title": "Wall Shelf",
+      "price": 59.99,
+      "description": "A decorative wall shelf for displaying your favorite items.",
+      "subDescription": "Space-Saving Decor",
+      "url": "https://images.unsplash.com/photo-1504977402025-84285fea814b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 0,
+      "new": true
+    },
+    {
+      "id": 14,
+      "title": "Lounge Chair",
+      "price": 299.99,
+      "description": "A comfortable lounge chair perfect for relaxing.",
+      "subDescription": "Cozy & Stylish",
+      "url": "https://images.unsplash.com/photo-1706522526632-25be2701f254?q=80&w=1354&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "discount": 10,
+      "new": true
+    }
+  ]
+}
