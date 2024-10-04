@@ -8,7 +8,9 @@
       "subDescription": "Comfortable & Chic",
       "url": "https://images.unsplash.com/photo-1653971858526-97f2ba1914c4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 10,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 2,
@@ -18,7 +20,9 @@
       "subDescription": "Elegant Design",
       "url": "https://images.unsplash.com/photo-1505409628601-edc9af17fda6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 15,
-      "new": false
+      "new": false,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 3,
@@ -28,7 +32,9 @@
       "subDescription": "Supportive & Stylish",
       "url": "https://images.unsplash.com/photo-1532103054090-3491f1a05d0d?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 5,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 4,
@@ -38,7 +44,9 @@
       "subDescription": "Sturdy & Elegant",
       "url": "https://images.unsplash.com/photo-1521783988139-89397d761dce?q=80&w=1325&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 20,
-      "new": false
+      "new": false,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 5,
@@ -48,7 +56,9 @@
       "subDescription": "Vibrant Addition",
       "url": "https://images.unsplash.com/photo-1721932547078-38a815bb6b17?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 0,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 6,
@@ -58,7 +68,9 @@
       "subDescription": "Modern & Functional",
       "url": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 10,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 7,
@@ -68,7 +80,9 @@
       "subDescription": "Stylish Storage",
       "url": "https://plus.unsplash.com/premium_photo-1698084059448-5bdc536e083a?q=80&w=1315&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 15,
-      "new": false
+      "new": false,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 8,
@@ -78,7 +92,9 @@
       "subDescription": "Convenient & Compact",
       "url": "https://images.unsplash.com/photo-1499933374294-4584851497cc?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 5,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 9,
@@ -88,7 +104,9 @@
       "subDescription": "Classic & Comfortable",
       "url": "https://plus.unsplash.com/premium_photo-1676320514042-6e1e3c9144ef?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 0,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 10,
@@ -98,7 +116,9 @@
       "subDescription": "Relaxing Comfort",
       "url": "https://images.unsplash.com/photo-1556597249-cd6a997737df?q=80&w=1344&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 20,
-      "new": false
+      "new": false,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 11,
@@ -108,7 +128,9 @@
       "subDescription": "Versatile & Stylish",
       "url": "https://plus.unsplash.com/premium_photo-1661879463320-27174a27d668?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 10,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 12,
@@ -118,17 +140,21 @@
       "subDescription": "Sleek & Functional",
       "url": "https://plus.unsplash.com/premium_photo-1661779632194-6cf32a9b5325?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 15,
-      "new": false
+      "new": false,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 13,
       "title": "Wall Shelf",
       "price": 59.99,
-      "description": "A decorative wall shelf for displaying your favorite items.",
+      "description": "A decorative wall shelf for displaying your isFavorite items.",
       "subDescription": "Space-Saving Decor",
       "url": "https://images.unsplash.com/photo-1504977402025-84285fea814b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 0,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     },
     {
       "id": 14,
@@ -138,7 +164,11 @@
       "subDescription": "Cozy & Stylish",
       "url": "https://images.unsplash.com/photo-1706522526632-25be2701f254?q=80&w=1354&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "discount": 10,
-      "new": true
+      "new": true,
+      "isFavorite": false,
+      "inCart": false
     }
-  ]
+  ],
+  "cart": [],
+  "favorite": []
 }
