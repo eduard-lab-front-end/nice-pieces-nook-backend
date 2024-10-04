@@ -168,7 +168,5 @@
       "isFavorite": false,
       "inCart": false
     }
-  ],
-  "cart": [],
-  "favorite": []
+  ]
 }
